@@ -1,0 +1,9 @@
+@media (min-width: 481px) {
+    div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: lightgray;
+        padding: 20px;
+    }
+}
